@@ -1,16 +1,24 @@
-# React + Vite
+# La Broza - Landing Page Gastronómica
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Landing page profesional desarrollada para el restaurante **La Broza**. El sitio está diseñado bajo un enfoque minimalista y moderno, priorizando la experiencia del usuario y la optimización visual en altas resoluciones.
 
-Currently, two official plugins are available:
+## 🛠️ Tecnologías y Herramientas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+*   **Frontend:** React.js con Vite para un entorno de desarrollo ultra rápido.
+*   **Estilos:** CSS3 con técnicas de optimización para resoluciones de 1920x1080.
+*   **Lógica:** Hooks personalizados para la gestión de estados y componentes modulares.
+*   **Interactividad:** Carruseles de imágenes y secciones de reserva integradas.
 
-## React Compiler
+## 📋 Características Técnicas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+*   **Layout Responsivo:** Adaptación completa para dispositivos móviles y escritorio.
+*   **Optimización de Imágenes:** Uso de `aspect-ratio` para mantener la integridad visual.
+*   **Código Limpio:** Estructura de carpetas organizada para facilitar el mantenimiento.
 
-## Expanding the ESLint configuration
+## ⚠️ Licencia y Uso
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Copyright (c) 2026 - Todos los derechos reservados.**
+
+Este proyecto es una solución comercial privada. No se permite la copia, distribución, modificación ni el uso comercial de este código sin la autorización expresa del autor.
+
+Si eres un reclutador y deseas ver una demo en vivo o profundizar en la arquitectura del código, por favor contáctame directamente.s
